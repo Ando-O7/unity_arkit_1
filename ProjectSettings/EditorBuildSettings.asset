@@ -5,6 +5,9 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/UnityARKitPlugin/Examples/UnityARKitScene/UnityARKitScene.unity
     guid: c159f2591a9b5c843b0a0442451f78f8
+  - enabled: 1
+    path: Assets/place_unity_chan.unity
+    guid: 06f3d732c89e54fdbb5024b0ef022531
